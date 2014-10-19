@@ -1,0 +1,9 @@
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\bin\Debug\AAHalc.exe.config
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\bin\Debug\AAHalc.exe
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\bin\Debug\AAHalc.pdb
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\obj\Debug\AAHalc.csprojResolveAssemblyReference.cache
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\obj\Debug\AAHalc.Form1.resources
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\obj\Debug\AAHalc.Properties.Resources.resources
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\obj\Debug\AAHalc.csproj.GenerateResource.Cache
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\obj\Debug\AAHalc.exe
+E:\_DOTNET\HalcyonaCalc\AAHalc\AAHalc\obj\Debug\AAHalc.pdb
